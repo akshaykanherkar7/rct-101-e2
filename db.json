@@ -70,6 +70,21 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "Ak T",
+      "gender": "male",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "500",
+      "id": 10
+    },
+    {
+      "title": "Mahesh",
+      "gender": "male",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "900",
+      "category": "pant",
+      "id": 11
     }
   ]
 }
